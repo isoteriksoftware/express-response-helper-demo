@@ -1,0 +1,15 @@
+{
+  "name": "express-response-helper-demo",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/index.js",
+    "client": "node src/client.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1",
+    "express-response-helper": "^1.2.0"
+  }
+}
